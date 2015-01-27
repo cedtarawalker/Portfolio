@@ -23,7 +23,7 @@ body{
       text-decoration: none;
       
   }
-  nav a{
+  nav a:hover{
       color:red;
       text-decoration:underline;
   }
