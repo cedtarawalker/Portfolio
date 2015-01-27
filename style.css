@@ -12,3 +12,14 @@ body{
       text-decoration:none;
       color:#FF9600;
   }
+  
+   h1{
+      font-size:72px;
+      font-family:Georgia;
+      margin-top:50px;
+   }
+   
+   a{
+      text-decoration:none;
+      
+  }
