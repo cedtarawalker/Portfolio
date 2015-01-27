@@ -46,3 +46,7 @@ body{
           font-family: 'Alegreya', serif;
           font-size:80px;
       }
+      
+      header h2  {
+          font-family: 'Poiret One', cursive;
+      }
