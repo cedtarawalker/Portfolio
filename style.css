@@ -34,4 +34,8 @@ body{
       nav a:hover{
         background-color: #727272;  
       }
+      
+      header img  {
+          border-radius:50%;
+      }
 
