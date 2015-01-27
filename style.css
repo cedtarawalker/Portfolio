@@ -1,4 +1,14 @@
-body  {
-  background-color: red;
-
-}
+body{
+    background-color:lightblue;
+    color:magenta;
+    font-family:sans-serif;
+  }
+  
+  h2{
+    color:#9900FF;
+  }
+  
+  a{
+      text-decoration:none;
+      
+  }
