@@ -19,10 +19,11 @@ body{
       margin-top:50px;
    }
    
-   a{
-      text-decoration:none;
+  nav a{
+      text-decoration: none;
       
   }
-  a:hover  {
+  nav a{
       color:red;
+      text-decoration:underline;
   }
