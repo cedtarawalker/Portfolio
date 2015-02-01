@@ -65,14 +65,15 @@ body{
           margin-top:40px;
       }
       
-      h1{
+      header h1{
           font-family: 'Poiret One', cursive;
       }
       
-      h2{
+      header h2{
           font-family: 'Josefin Sans', sans-serif;
       }
       
+      header text,
       header{
           text-align:center;
       }
