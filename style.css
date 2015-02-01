@@ -28,7 +28,6 @@ body{
         padding: 5px;
         display: inline-block;
         transition: 1s all;
-        
     }
     
       nav a:hover{
@@ -72,4 +71,9 @@ body{
       
       h2{
           font-family: 'Josefin Sans', sans-serif;
+      }
+      
+      header,
+      header img{
+          text-align:center;
       }
