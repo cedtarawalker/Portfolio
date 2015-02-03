@@ -76,6 +76,7 @@ p{
 
 p:hover{
     margin-top:-10px;
+    transform:scale(1.5,1.5);
 }
       
       button{
