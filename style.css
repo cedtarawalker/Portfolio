@@ -65,10 +65,11 @@ body{
          color:black;
       }
       
-  p{
-background-color:#A76F46;;
-font-family:impact,haettenschweiler,"ariel narrow bold", sans-serif;
-margin:2;
+p{
+     background-color:#A76F46;;
+     font-family:impact,haettenschweiler,"ariel narrow bold", sans-serif;
+     margin:0;
+     padding:20px;
 }
       
       button{
