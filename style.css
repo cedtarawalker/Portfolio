@@ -65,6 +65,12 @@ body{
          color:black;
       }
       
+  p{
+background-color:#A76F46;;
+font-family:impact,haettenschweiler,"ariel narrow bold", sans-serif;
+margin:2;
+}
+      
       button{
           color:#FFF;
           background-color:#F00;
