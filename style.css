@@ -59,8 +59,9 @@ body{
       
       #features{
           background-image:none;
-         background-color:blue;
+         background-color:#A76F46;
          height:250px;
+         color:black;
       }
       
       button{
