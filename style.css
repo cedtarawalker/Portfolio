@@ -57,6 +57,11 @@ body{
           Text-align:center;
       }
       
+      #features{
+      background-color:blue;
+      height:250px;
+      }
+      
       button{
           color:#FFF;
           background-color:#F00;
