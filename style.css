@@ -58,8 +58,9 @@ body{
       }
       
       #features{
-      background-color:blue;
-      height:250px;
+          background-image:none;
+         background-color:blue;
+         height:250px;
       }
       
       button{
