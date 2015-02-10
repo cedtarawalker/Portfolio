@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+<nav>
+<a href="http://cedtarawalker.github.io/Portfolio/">Home</a> <a href="http://cedtarawalker.github.io/Portfolio/about.html">About</a>
+<a href= ""></a></nav>
+<header>
+<h1>Cedtara's New Website</h1>
+<h2>My new website!!!</h2>
+<img src="https://c4.staticflickr.com/8/7292/16194989510_30e1282da2_c.jpg" width="200">
+</header>
+<div>Welcome to my webpage which is still under construction. <br>
+Stick with me as I developed my website and watch it evolve as I do so.</div>
+<section>
+<button>see my work</button>
+</section>
+<section id="features">
+<p>
+<i class="fa fa-camera"></i>
+<br>
+Photographer
+</p>
+<p>
+<i class="fa fa-laptop"></i>
+<br>
+Graphic Designer
+</p>
+<p>
+<i class="fa fa-paint-brush"></i>
+<br>
+Fine Artist
+</p>
+</section>
+<a href="http://moemoneymia.tumblr.com"><img src="https://cdn0.iconfinder.com/data/icons/creative-nerds-wooden-icons/128/tumblr.png" width=30></a>
+<a href="https://www.facebook.com/cedtaraaaawalkerrr"><img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/128/Aquicon-Facebook.png" width=30></a>
+<a href="https://www.youtube.com/channel/UCkngAKMlcOTRrytZ6c0ffZQ"><img src="https://cdn1.iconfinder.com/data/icons/D_Social_Icon_Set/128/youtubepx.png" width=30></a>
+</body>
+</html>
+
+    Status
+    API
+    Training
+    Shop
+    Blog
+    About
+
+    © 2015 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Contac
