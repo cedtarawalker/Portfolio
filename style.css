@@ -103,4 +103,8 @@ p:hover{
           text-align:center;
       }
       
+      .menu-selected{
+          background-color:deeppink;
+      }
+      
 
