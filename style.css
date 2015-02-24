@@ -120,7 +120,7 @@ p:hover{
          margin:0 auto;
       }
 
-  button {
+  .button {
   background: #b034d9;
   background-image: -webkit-linear-gradient(top, #b034d9, #682bb8);
   background-image: -moz-linear-gradient(top, #b034d9, #682bb8);
@@ -141,7 +141,7 @@ p:hover{
   text-decoration: none;
 }
 
-button:hover {
+ .button:hover {
   background: #dd59f7;
   background-image: -webkit-linear-gradient(top, #dd59f7, #ed1fdf);
   background-image: -moz-linear-gradient(top, #dd59f7, #ed1fdf);
