@@ -59,12 +59,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feccb1', end
           font-family: 'PT Serif', serif;
       }
       
-      section  {
-          background-image:url(http://41.media.tumblr.com/1fe39c3560de0447009d8442372d78f2/tumblr_na5iscmbig1slhhf0o1_1280.jpg);
-          height:400px;
-          background-size:cover;
-          Text-align:center;
-      }
+     
       
  #features{
           background-image:url(http://41.media.tumblr.com/1fe39c3560de0447009d8442372d78f2/tumblr_na5iscmbig1slhhf0o1_1280.jpg);
