@@ -50,14 +50,16 @@ font-size:80px;
 header h2 {
 font-family: 'PT Serif', serif;
 }
+
 section {
 background-image:url(http://41.media.tumblr.com/1fe39c3560de0447009d8442372d78f2/tumblr_na5iscmbig1slhhf0o1_1280.jpg);
 height:400px;
 background-size:cover;
 Text-align:center;
 }
+
 #features{
-background-image:url(http://41.media.tumblr.com/1fe39c3560de0447009d8442372d78f2/tumblr_na5iscmbig1slhhf0o1_1280.jpg);
+background-image:none;
 height:250px;
 color:black;
 }
@@ -99,6 +101,7 @@ table{
 width: 1214px;
 margin:0 auto;
 }
+
 .button {
 background: #b034d9;
 background-image: -webkit-linear-gradient(top, #b034d9, #682bb8);
@@ -119,6 +122,7 @@ font-size: 20px;
 padding: 10px 20px 10px 20px;
 text-decoration: none;
 }
+
 .button:hover {
 background: #dd59f7;
 background-image: -webkit-linear-gradient(top, #dd59f7, #ed1fdf);
